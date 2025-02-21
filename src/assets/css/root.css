@@ -5,8 +5,8 @@
 /* CodeStitch Root and Helpers */
 @media only screen and (min-width: 0rem) {
   :root {
-    --primary: #e21919;
-    --primaryLight: #df1818;
+    --primary: #b70505;
+    --primaryLight: #e00505;
     --secondary: #001f3f;
     --secondaryLight: #001f3f;
     --headerColor: #1a1a1a;
@@ -784,7 +784,7 @@
     text-decoration: none;
     /* 14px - 16px */
     font-size: clamp(0.875rem, 1vw, 1rem);
-    line-height: 1.5em;
+    line-height: 1.4em;
     color: var(--bodyTextColor);
   }
   #cs-navigation .cs-li-link:hover:before {
